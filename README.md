@@ -1,5 +1,3 @@
-# Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development:A HarmonyOS Case Study
-
 ## 😊How to start?
 
 ### ⚙️Config
